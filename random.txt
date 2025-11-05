@@ -1,0 +1,2 @@
+cd "C:\Users\Atul bhardwaj\OneDrive\Desktop\hospital-management-system-project\Hospital Management System by ProjectGurukul"
+java -cp ".;sqlite-jdbc-3.40.0.0.jar;bin" org.ProjectGurukul.HospitalManagement
